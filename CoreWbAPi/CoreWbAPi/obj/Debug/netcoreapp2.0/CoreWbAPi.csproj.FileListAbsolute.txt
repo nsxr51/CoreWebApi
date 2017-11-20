@@ -1,0 +1,11 @@
+C:\Users\tc34905\Source\Repos\CoreWebApi\CoreWbAPi\CoreWbAPi\bin\Debug\netcoreapp2.0\CoreWbAPi.deps.json
+C:\Users\tc34905\Source\Repos\CoreWebApi\CoreWbAPi\CoreWbAPi\bin\Debug\netcoreapp2.0\CoreWbAPi.runtimeconfig.json
+C:\Users\tc34905\Source\Repos\CoreWebApi\CoreWbAPi\CoreWbAPi\bin\Debug\netcoreapp2.0\CoreWbAPi.runtimeconfig.dev.json
+C:\Users\tc34905\Source\Repos\CoreWebApi\CoreWbAPi\CoreWbAPi\bin\Debug\netcoreapp2.0\CoreWbAPi.dll
+C:\Users\tc34905\Source\Repos\CoreWebApi\CoreWbAPi\CoreWbAPi\bin\Debug\netcoreapp2.0\CoreWbAPi.pdb
+C:\Users\tc34905\Source\Repos\CoreWebApi\CoreWbAPi\CoreWbAPi\obj\Debug\netcoreapp2.0\CoreWbAPi.csprojResolveAssemblyReference.cache
+C:\Users\tc34905\Source\Repos\CoreWebApi\CoreWbAPi\CoreWbAPi\obj\Debug\netcoreapp2.0\CoreWbAPi.csproj.CoreCompileInputs.cache
+C:\Users\tc34905\Source\Repos\CoreWebApi\CoreWbAPi\CoreWbAPi\obj\Debug\netcoreapp2.0\CoreWbAPi.AssemblyInfoInputs.cache
+C:\Users\tc34905\Source\Repos\CoreWebApi\CoreWbAPi\CoreWbAPi\obj\Debug\netcoreapp2.0\CoreWbAPi.AssemblyInfo.cs
+C:\Users\tc34905\Source\Repos\CoreWebApi\CoreWbAPi\CoreWbAPi\obj\Debug\netcoreapp2.0\CoreWbAPi.dll
+C:\Users\tc34905\Source\Repos\CoreWebApi\CoreWbAPi\CoreWbAPi\obj\Debug\netcoreapp2.0\CoreWbAPi.pdb
